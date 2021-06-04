@@ -1,0 +1,2 @@
+Django==2.0.3
+docx2txt==0.8
